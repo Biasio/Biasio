@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Biasio
-- 👀 I’m interested in Coding and android world
-- 🌱 I’m currently learning Physics
-- 💞️ I’m looking to collaborate on Java projects!
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning Physics and phyton
+- 💞️ I’m looking to collaborate on Python projects!
